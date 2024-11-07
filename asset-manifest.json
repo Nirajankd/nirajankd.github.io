@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3cf13eba.css",
-    "main.js": "/static/js/main.36b835d7.js",
+    "main.js": "/static/js/main.79a5d109.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -10,6 +10,7 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/VT_icons.png": "/static/media/VT_icons.d1f5a19875490dc33bf9.png",
     "static/media/ccp-removebg-preview.png": "/static/media/ccp-removebg-preview.ea3c27ecb11920b6f334.png",
+    "static/media/test.webp": "/static/media/test.59762f7d72a23675cf15.webp",
     "static/media/chandra.webp": "/static/media/chandra.4cf73655bc42a7da76b8.webp",
     "static/media/5973b144-13d2-4658-8ec3-f052c0f50547.webp": "/static/media/5973b144-13d2-4658-8ec3-f052c0f50547.fb28f5c582c927ef1c57.webp",
     "static/media/Reacts.webp": "/static/media/Reacts.864aa55f67a5f5f7f3e9.webp",
@@ -24,7 +25,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3cf13eba.css.map": "/static/css/main.3cf13eba.css.map",
-    "main.36b835d7.js.map": "/static/js/main.36b835d7.js.map",
+    "main.79a5d109.js.map": "/static/js/main.79a5d109.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.3cf13eba.css",
-    "static/js/main.36b835d7.js"
+    "static/js/main.79a5d109.js"
   ]
 }
